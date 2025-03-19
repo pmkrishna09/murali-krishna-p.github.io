@@ -36,7 +36,8 @@ and IoT solutions for real-world applications using **Python, C, and firmware de
 ## 📬 Contact
 - </> **GitHub**  : [github.com/pmkrishna09/P MURALI KRISHNA](https://github.com/pmkrishna09)
 - 👔 **LinkedIn** : [linkedin.com/in/Murali Krishna Peyyeti](https://linkedin.com/in/murali-krishna-peyyeti-8758602b1)
-- 📧 **Email**    : mkrishna72.p@gmail.com 
+- 📧 **Email**    : mkrishna72.p@gmail.com
+
 Open to Work 💻🎯
 
 I appreciate you taking the time to explore my work. Feel free to reach out with any ideas or questions or feedback! 🚀🤝
